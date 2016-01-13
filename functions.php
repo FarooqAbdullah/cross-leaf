@@ -5,9 +5,3 @@
  * @package Objects
  * @subpackage cross-leaf
  */
-
-function xyz() {
-}
-fucntion abcd() {
-	
-}

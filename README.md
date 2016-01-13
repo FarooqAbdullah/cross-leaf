@@ -19,7 +19,7 @@ Some important notes.
     > Congrates ! you have successfully complete your setup.
 
 # Git Basics :
-    - Git status (to check your working status, what you have doen yet)
+    - Git status (to check your working status, what you have done yet)
     - git add (to add your modifications on existing files or to add new files or directories)
     - git commit (to commit your changes to git repo)
     - git rm (to delete files from repo)
